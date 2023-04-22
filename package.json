@@ -1,0 +1,25 @@
+{
+  "name": "@giovanirubim/trig",
+  "version": "1.0.0",
+  "description": "Wraps trigonometric functions allowing switching between radians and degrees",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanirubim/trig.git"
+  },
+  "keywords": [
+    "trig",
+    "radians",
+    "degrees"
+  ],
+  "author": "Giovani <giovanirubim.f@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanirubim/trig/issues"
+  },
+  "homepage": "https://github.com/giovanirubim/trig#readme"
+}
